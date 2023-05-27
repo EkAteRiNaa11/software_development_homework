@@ -18,4 +18,4 @@ python gui.py
 
 #### Проведение тестов с unittest
 
-python unittest.py
+python unittests.py
